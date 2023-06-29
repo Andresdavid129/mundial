@@ -1,0 +1,75 @@
+.contenedor{
+    position: static;
+    display: inline-block;
+    text-align: center;
+    background-color: rgb(53, 143, 179);
+    width: 100%;
+}
+.center{
+   
+    top: 90%;
+    left: 50%;
+    transform: translate(-50% -50%);
+}
+.peto{
+    color: white;
+    
+}
+.vaso2{
+    text-align: right;
+ text-align: 0;
+}
+
+.sesion1{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+.titulo{
+    text-align: center;
+    background-color: aqua;
+    height: 100px;
+    padding-top: 50px;
+}
+.sesion2{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.titulo2{
+    text-align: center;
+    background-color: aqua;
+    height: 100px;
+    padding: 50px;
+}
+.sesion3{
+    display: grid;
+    grid-template-columns: auto;
+}
+.titulo3{
+    text-align: center;
+    background-color: aqua;
+    height: 100px;
+    padding: 50px;
+}
+.punto0{
+    background-color: aqua;
+}
+.punto1{
+    display: grid;
+    grid-template-columns: 200px auto;
+    position: fixed;
+    height: 200px;
+}
+
+.navo{
+    background-color: rgb(197, 184, 5);
+    color: black;
+    border: 2px solid rgb(rgb(165, 137, 137), rgb(0, 255, 0), blue);
+    padding: 20px 20px;
+    text-align: center;
+    display: online-block;
+    border-radius: 10px;
+}
+.sesion4{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
